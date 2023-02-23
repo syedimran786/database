@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "id": "7adc16d2-97ff-4f38-9e60-0fd273b03aae",
+      "title": "green Apple",
+      "price": "20"
+    },
+    {
+      "title": "banana",
+      "price": "100",
+      "id": "b4bf330e-3927-408f-b51e-17a52bdbab90"
+    },
+    {
+      "title": "mango",
+      "price": "30",
+      "id": "dd12c1f7-e7db-47e5-8145-47c679125055"
+    },
+    {
+      "id": "2ab6c750-1db3-4aee-aec9-f71a3187be0f",
+      "title": "sfgffgfgfg",
+      "price": "20"
+    }
+  ]
+}
